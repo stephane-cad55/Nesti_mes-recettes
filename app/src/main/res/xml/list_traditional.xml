@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ressources>
+    <recipe
+        author="Cédric Grolet"
+        cat="tradition"
+        img="r_macarons"
+        star="star_5"
+        title="Macaron" />
+
+    <recipe
+        author="Philippe Conticini"
+        cat="tradition"
+        img="r_eclair_chocolat"
+        star="star_4"
+        title="Eclair au chocolat" />
+
+    <recipe
+        author="Pierre Hermé"
+        cat="tradition"
+        img="r_brioche"
+        star="star_2"
+        title="Brioche" />
+
+</ressources>
+
